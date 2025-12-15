@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ふたり",
+  "base_artist": "35.7",
+  "createdAt": "2025-12-15T13:30:53.593556Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/01_ふたり_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "Ikimonogakari",
+      "has_synced": false,
+      "path": "select/02_ふたり_Ikimonogakari.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "Sambomaster",
+      "has_synced": false,
+      "path": "select/03_ふたり_Sambomaster.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/04_ふたり_サンボマスター.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ふたり feat.ミゾベリョウ",
+      "artist": "FLOWER FLOWER feat. ミゾベリョウ",
+      "has_synced": false,
+      "path": "select/05_ふたり_feat.ミゾベリョウ_FLOWER_FLOWER_feat._ミゾベリョウ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ふたり feat.ミゾベリョウ",
+      "artist": "FLOWER FLOWER",
+      "has_synced": false,
+      "path": "select/06_ふたり_feat.ミゾベリョウ_FLOWER_FLOWER.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_ふたり_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/08_ふたり_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "FLOWER FLOWER Feat. ミゾベリョウ",
+      "has_synced": false,
+      "path": "select/09_ふたり_FLOWER_FLOWER_Feat._ミゾベリョウ.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ふたり with おおはた雄一",
+      "artist": "コトリンゴ",
+      "has_synced": true,
+      "path": "select/10_ふたり_with_おおはた雄一_コトリンゴ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/11_ふたり_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/12_ふたり_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "FictionJunction YUUKA",
+      "has_synced": false,
+      "path": "select/13_ふたり_FictionJunction_YUUKA.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ふたり",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/14_ふたり_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたり",
+      "artist": "35.7",
+      "has_synced": false,
+      "path": "select/pl_01_ふたり_35.7.txt"
+    }
+  ]
+}
